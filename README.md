@@ -6,12 +6,12 @@ Features Implemented :-
 - Idle State: Displays buttons to initiate audio and video calls or simulate an incoming call.
 - Ringing State: Simulates an incoming call with accept/decline options.
 - In-Call State:
-           -  Displays a placeholder for the call screen (audio or video).
-           -  Includes in-call controls:
-                - Mute/Unmute.
-                - End Call.
-                - Switch Camera (for video calls).
-           - UI Design: Simple and clean layout with placeholder video and audio call screens.
+   -  Displays a placeholder for the call screen (audio or video).
+   - Includes in-call controls:
+   - Mute/Unmute.
+   - End Call.
+   - Switch Camera (for video calls).
+  - UI Design: Simple and clean layout with placeholder video and audio call screens.
   
 Steps to Run the App :-
 - Clone the repository
