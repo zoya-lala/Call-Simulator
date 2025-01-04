@@ -11,7 +11,7 @@ Features Implemented :-
    - Mute/Unmute.
    - End Call.
    - Switch Camera (for video calls).
-  - UI Design: Simple and clean layout with placeholder video and audio call screens.
+- UI Design: Simple and clean layout with placeholder video and audio call screens.
   
 Steps to Run the App :-
 - Clone the repository
@@ -22,6 +22,6 @@ How to Use the App :-
 - Initiate a Call: Tap on Initiate Audio Call or Initiate Video Call to start a call.
 - Incoming Call: Tap on Simulate Incoming Call to see the incoming call screen with options to Accept or Decline.
 - In-Call Controls:
-- Mute/Unmute: Toggle the mute state using the microphone icon.
-- End Call: Tap on the red phone icon to end the call.
-- Switch Camera (For video calls): Tap the camera icon to simulate a front/rear camera switch.
+   - Mute/Unmute: Toggle the mute state using the microphone icon.
+   - End Call: Tap on the red phone icon to end the call.
+   - Switch Camera (For video calls): Tap the camera icon to simulate a front/rear camera switch.
