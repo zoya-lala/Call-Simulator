@@ -19,9 +19,9 @@ Steps to Run the App :-
 - Run the app
   
 How to Use the App :-
-Initiate a Call: Tap on Initiate Audio Call or Initiate Video Call to start a call.
-Incoming Call: Tap on Simulate Incoming Call to see the incoming call screen with options to Accept or Decline.
-In-Call Controls:
-    - Mute/Unmute: Toggle the mute state using the microphone icon.
-    - End Call: Tap on the red phone icon to end the call.
-    - Switch Camera (For video calls): Tap the camera icon to simulate a front/rear camera switch.
+- Initiate a Call: Tap on Initiate Audio Call or Initiate Video Call to start a call.
+- Incoming Call: Tap on Simulate Incoming Call to see the incoming call screen with options to Accept or Decline.
+- In-Call Controls:
+- Mute/Unmute: Toggle the mute state using the microphone icon.
+- End Call: Tap on the red phone icon to end the call.
+- Switch Camera (For video calls): Tap the camera icon to simulate a front/rear camera switch.
