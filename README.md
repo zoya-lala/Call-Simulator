@@ -1,16 +1,27 @@
-# call_simulator
+Call Simulator App
 
-A new Flutter project.
+A Flutter app to simulate voice and video calls with basic functionality. The app allows users to initiate calls, manage incoming calls, mute/unmute, switch camera, and end calls. This project aims to mimic a basic calling experience similar to WhatsApp.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features Implemented :-
+- Idle State: Displays buttons to initiate audio and video calls or simulate an incoming call.
+- Ringing State: Simulates an incoming call with accept/decline options.
+- In-Call State:
+           - Displays a placeholder for the call screen (audio or video).
+           - Includes in-call controls:
+                i. Mute/Unmute.
+                ii. End Call.
+                iii. Switch Camera (for video calls).
+           - UI Design: Simple and clean layout with placeholder video and audio call screens.
+  
+Steps to Run the App :-
+- Clone the repository
+- Navigate to the project folder
+- Run the app: Use the following command to run the app on an emulator or connected device
+  
+How to Use the App :-
+Initiate a Call: Tap on Initiate Audio Call or Initiate Video Call to start a call.
+Incoming Call: Tap on Simulate Incoming Call to see the incoming call screen with options to Accept or Decline.
+In-Call Controls:
+    Mute/Unmute: Toggle the mute state using the microphone icon.
+    End Call: Tap on the red phone icon to end the call.
+    Switch Camera (For video calls): Tap the camera icon to simulate a front/rear camera switch.
