@@ -6,17 +6,17 @@ Features Implemented :-
 - Idle State: Displays buttons to initiate audio and video calls or simulate an incoming call.
 - Ringing State: Simulates an incoming call with accept/decline options.
 - In-Call State:
-           - Displays a placeholder for the call screen (audio or video).
-           - Includes in-call controls:
+           a. Displays a placeholder for the call screen (audio or video).
+           b. Includes in-call controls:
                 i. Mute/Unmute.
                 ii. End Call.
                 iii. Switch Camera (for video calls).
-           - UI Design: Simple and clean layout with placeholder video and audio call screens.
+           c. UI Design: Simple and clean layout with placeholder video and audio call screens.
   
 Steps to Run the App :-
 - Clone the repository
 - Navigate to the project folder
-- Run the app: Use the following command to run the app on an emulator or connected device
+- Run the app
   
 How to Use the App :-
 Initiate a Call: Tap on Initiate Audio Call or Initiate Video Call to start a call.
