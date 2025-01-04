@@ -8,9 +8,9 @@ Features Implemented :-
 - In-Call State:
    -  Displays a placeholder for the call screen (audio or video).
    - Includes in-call controls:
-   - Mute/Unmute.
-   - End Call.
-   - Switch Camera (for video calls).
+       - Mute/Unmute.
+       - End Call.
+       - Switch Camera (for video calls).
 - UI Design: Simple and clean layout with placeholder video and audio call screens.
   
 Steps to Run the App :-
